@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SDPEU</string>
+    <string name="ip_master">ip_master</string>
+</resources>
