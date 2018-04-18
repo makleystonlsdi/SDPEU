@@ -21,7 +21,7 @@ mobile devices (and smartphones and tablets) to mediate the
   project and infrastructure of software can be found [here](http://www.lsdi.ufma.br/~iottv).
 
 Basically, this project contains software that will run on both TV and
- mobile devices. Since then, the [CASMOC](https://github.com/makleystonlsdi/CASMOC) 
+ mobile devices. Since then, the [CASMOC](https://github.com/makleystonlsdi/iDTVModules) 
  component (Available on GitHub) is responsible for abstracting communication
   and monitoring of smart objects for TV applications. On the other hand, 
   this mobile module must be imported by portable device applications (Android) 
