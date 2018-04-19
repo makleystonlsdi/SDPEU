@@ -33,11 +33,11 @@ The SDPEU interface documentation can be found [here](http://lsdi.ufma.br/~iottv
 
 Documentation of the software infrastructure can be found [here](https://www.overleaf.com/read/mmszhgzqmchh).
 
+You can use this module as a [.jar library](https://github.com/makleystonlsdi/SDPEU/tree/master/libs/jars).
+
 # More
 [IoTTV Project](http://www.lsdi.ufma.br/~iottv)
 
 [Laboratório de Sistemas Distribuídos Inteligentes (LSDi)](http://www.lsdi.ufma.br)
 
 [Universidade Federal do Maranhão (UFMA)](http://www.ufma.br)
-
-You can use this module as a [.jar library](https://github.com/makleystonlsdi/SDPEU/tree/master/libs/jars).
