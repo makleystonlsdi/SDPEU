@@ -67,7 +67,7 @@ public class SDPEU implements SDPEUInterface{
 
     private SDPEU(){};
 
-    public SDPEU getInstance(Context context){
+    public static SDPEU getInstance(Context context){
         if(instance == null){
             instance = new SDPEU(context);
         }
