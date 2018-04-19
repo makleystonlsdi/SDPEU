@@ -39,3 +39,5 @@ Documentation of the software infrastructure can be found [here](https://www.ove
 [Laboratório de Sistemas Distribuídos Inteligentes (LSDi)](http://www.lsdi.ufma.br)
 
 [Universidade Federal do Maranhão (UFMA)](http://www.ufma.br)
+
+You can use this module as a [.jar library](https://github.com/makleystonlsdi/SDPEU/tree/master/libs/jars).
