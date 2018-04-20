@@ -35,6 +35,10 @@ Documentation of the software infrastructure can be found [here](https://www.ove
 
 You can use this module as a [.jar library](https://github.com/makleystonlsdi/SDPEU/tree/master/libs/jars).
 
+This module has dependencies:
+* [Asper](https://github.com/mobile-event-processing/Asper)
+* [Micro Broker Moquette](https://github.com/technocreatives/moquette)
+
 # More
 [IoTTV Project](http://www.lsdi.ufma.br/~iottv)
 
